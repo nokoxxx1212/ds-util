@@ -37,6 +37,7 @@ output_path_local = notebook.convert_notebook_to_html(
     'resize_food101', 
     'resize_food101_yyyymmdd.html', 
     '../../reports')
+```
 
 ```python
 from ds_util import git

@@ -27,4 +27,4 @@ def convert_notebook_to_html(
     output_file_path_local = save_dir_local + '/' + filename_html_renamed 
     logger.info('output_file_path_local: ' + output_file_path_local)
 
-    return output_reports_file_path_local
+    return output_file_path_local
